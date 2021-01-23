@@ -1,5 +1,4 @@
-<script>
-  
+
   var colombia = [
         {
             "DEPARTAMENTO": "Amazonas",
@@ -5617,5 +5616,3 @@
             "MUNICIPIO": "Santa Rosalía"
         }
 ];
-
-</script>
