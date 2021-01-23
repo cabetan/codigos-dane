@@ -1,5 +1,4 @@
-
-  var colombia = [
+var colombia = [
         {
             "DEPARTAMENTO": "Amazonas",
             "CODIGO": "91263",
